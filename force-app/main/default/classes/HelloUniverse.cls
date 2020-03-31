@@ -1,7 +1,7 @@
 public with Sharing class HelloUniverse {
     
     public HelloUniverse() {
-        System.debug('Helo Galaxy!');
+        System.debug('Hello Galaxy!');
     }
 
 }
